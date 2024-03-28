@@ -22,7 +22,9 @@ class MainActivity : AppCompatActivity() {
         //you are right
 
 
-
+        fun main(args: Array<String>) {
+            println("Hello, World!")
+        }
 
     }
 }
