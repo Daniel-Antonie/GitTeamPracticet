@@ -8,8 +8,21 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //Devin Scares me
-        //Devin can kiss my donkey
+
+
+    //Devin can kiss my donkey
+
         //Devin < Perla The Queen
+
+
         // Devin is a crazy noobab
+
+
+
+        //you are right
+
+
+
+
     }
 }
